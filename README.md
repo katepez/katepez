@@ -8,6 +8,7 @@
 - I used to own a sucessful alpaca farm, was on core committee of MD Sheep & Wool Festival, did their website
 - I am a hand spinner
 - I was a mainframe programmer at NIH, then desktop & systems analyst
+- My Flickr account is here: https://www.flickr.com/photos/189043227@N07/?
 
 <!---
 katepez/katepez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
